@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-dc28-414e-8ae9-5925655e01a8.gif" width="100%" />
+<img src="https://i.imgur.com/3g7Nm6y.png" width="100%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HanzCyberr&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true" />
 
