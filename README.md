@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=HANZCYBERR;ETHICAL+HACKER;PENETRATION+TESTER;MATRIX+MODE+ON" alt="Typing SVG" />
-</div>
 
-<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="100%" />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HanzCyberr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=1800&pause=400&color=39FF14&center=true&vCenter=true&width=600&lines=%3E+ACCESS+GRANTED;HANZCYBERR;ETHICAL+HACKER;MATRIX+MODE+ACTIVATED_" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanzCyberr&theme=tokyonight&hide_border=true" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HanzCyberr&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HanzCyberr&theme=github_dark" />
+
 </div>
