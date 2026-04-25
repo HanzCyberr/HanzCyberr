@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/3g7Nm6y.png" width="100%" />
+<img src="https://raw.githubusercontent.com/AnhellO-Programming/assets/main/gifs/hacker.gif" width="100%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HanzCyberr&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true" />
 
